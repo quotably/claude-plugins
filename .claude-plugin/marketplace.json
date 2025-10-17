@@ -1,0 +1,17 @@
+{
+  "name": "quotably",
+  "owner": {
+    "name": "Quotably, LLC",
+    "url": "https://github.com/quotably/claude-plugins"
+  },
+  "plugins": [
+    {
+      "name": "promptnotes",
+      "source": {
+        "source": "github",
+        "repo": "quotably/promptnotes"
+      },
+      "description": "Captures Claude Code interactions in PROV format and generates transcripts as git notes"
+    }
+  ]
+}
